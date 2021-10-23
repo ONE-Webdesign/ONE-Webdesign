@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ONE-Webdesign
-- 👀 I’m interested in web development
+- 👀 I’m interested in web development & e-commerce
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on web dev projects
 - 📫 How to reach me: www.onewebdesign.nl
