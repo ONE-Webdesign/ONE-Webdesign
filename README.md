@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @ONE-Webdesign
 - 👀 I’m interested in web development & e-commerce
-- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on web dev projects
-- 📫 How to reach me: www.onewebdesign.nl
+- 📫 How to reach me: www.onewebdesign.nl | www.linkedin.com/in/hofewo
 
 <!---
 ONE-Webdesign/ONE-Webdesign is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
